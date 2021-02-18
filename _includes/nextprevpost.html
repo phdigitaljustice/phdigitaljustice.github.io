@@ -1,0 +1,24 @@
+<div class="next-prev-post">
+  {% if page.previous.url %}
+  <a class="prev np-post" href="{{page.previous.url}}">
+    <div class="prev np-post-container">
+      <div class="prev np-arrow"><i class="fas fa-chevron-left"></i></div>
+      <div class="np-post-text">
+        <div class="prev np-label">PREVIOUS</div>
+        <div class="np-title">{{page.previous.title}}</div>
+      </div>
+    </div>
+  </a>
+  {% endif %}
+  {% if page.next.url %}
+  <a class="next np-post" href="{{page.next.url}}">
+    <div class="next np-post-container">
+      <div class="np-post-text">
+        <div class="next np-label">NEXT</div>
+        <div class="np-title">{{page.next.title}}</div>
+      </div>
+        <div class="next np-arrow"><i class="fas fa-chevron-right"></i></div>
+    </div>
+  </a>
+  {% endif %}
+</div>

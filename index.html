@@ -1,0 +1,126 @@
+---
+layout: default
+
+---
+<!-- SECTION MAIN -->
+<div class="section" id="main">
+
+	<!-- img class="content" src="images/main.jpg" -->
+	<div class="content"><h1>What is Digital Justice?</h1></div>
+
+	<div class="content">
+	<p>The DIGITAL refers to data that is converted into digital format - ones and zeroes.</p>
+	<p>JUSTICE is our call when we seek fairness, equity, accountability, and inclusivity.</p>
+	<p>Almost everything is becoming digital: from manufacturing processes, agriculture, transportation, education, health, government, to the way we write down notes, gather and process information, and interact with our loved ones. The so-called digital revolution also brought with it
+issues of inaccessibility and the digital divide,
+walled gardens of proprietary platforms and knowledge, hyper-surveillance, lack of regulation, cybercrime, fake news, and hijacked democracies.</p>
+	</div>
+
+</div>
+<!-- END SECTION MAIN -->
+
+<!-- SECTION SURVEY -->
+<div class="section action" id="survey">
+
+	<div class="content action"><span>Help us build the picture of PH Digitalization.</span> &nbsp; &nbsp; <a href="https://docs.google.com/forms/d/e/1FAIpQLScWKWViXRoGBHBfD88VzFXNPKg0_vj9lSkk_Pyk0-FWWEd2Tg/viewform" target="#">TAKE THE SURVEY</a></div>
+
+</div>
+<!-- END SECTION SURVEY-->
+
+<!-- SECTION ISSUES -->
+<div class="section" id="issues">
+
+	<div class="content title"><h2>Key Digital Justice Issues in the Philippines</h2></div>
+
+	<!-- CARD CONTAINER -->
+	<div class="card-container issues">
+
+		<div class="content card" id="card-0">
+			<div class="icon">
+				<img class="content" src="{{site.img_repo | relative_url}}/internet-of-things.png" alt="IoT" style="width:8em;height:8em;">
+			</div>
+			<h3>The Digital Divide</h3>
+			<p>While the Philippines is deemed the social media capital of the world, millions are still left behind without proper internet access. Many are connected online but only through free internet offered by social media platforms, unaware or indifferent of the massive troves of data being harvested and monetized by the platform. Our internet connection remains one of the slowest in Asia, averaging at16 megabits per second on mobile. It is also one of the most expensive with a rate of 20 US dollars for 5Mbps of internet for a month, or 184 US dollars for a one gigabyte-per second connection.</p>
+		</div>
+
+		<div class="content card" id="card-1">
+			<div class="icon">
+				<img class="content" src="{{site.img_repo | relative_url}}/platform.png" alt="Platforms" style="width:8em;height:8em;">
+			</div>
+			<h3>Precarious Platform-Based Work</h3>
+			<p>App-based services and online freelancing jobs have increased in demand, especially during lockdown, attracting many into the expanding platform-based gig economy that currently employs millions. These jobs, however, do not offer the same job stability and social protections given to workers with employer-employee relationships. The current Philippine labor code does not cover informal and gig workers, and no government regulation currently exists to protect them, thereby making them vulnerable to exploitation and abuse.</p>
+		</div>
+
+		<div class="content card" id="card-2">
+			<div class="icon">
+				<img class="content" src="{{site.img_repo | relative_url}}/fake-news.png" alt="Fake News" style="width:8em;height:8em;">
+			</div>
+			<h3>Troll Armies and Fake News</h3>
+			<p>In the Philippines, marketing firms catered to politicians rely on cyber-troll armies that create multiple fake social media accounts to boost their image and attack opponents. More recently, the government itself has been linked to a military-controlled network of fake accounts and pages that attack organizations and individuals critical of the administration.</p>
+		</div>
+
+		<div class="content card" id="card-3">
+			<div class="icon">
+				<img class="content" src="{{site.img_repo | relative_url}}/corruption.png" alt="Corruption" style="width:8em;height:8em;">
+			</div>
+			<h3>Hijacked Democracies</h3>
+			<p>In 2018, it was revealed that the private data of some 1.2 million Filipino Facebook users were harvested by Cambridge Analytica. This data was used for Filipino clients of its parent company SCL group, which prides itself in psychometrics to influence the behavior of groups of people through targeted messaging. Reports showed SCL operating through local proxies with clients such as President Duterte and Bongbong Marcos, the son of the late dictator Ferdinand Marcos, who ran with Duterte as Vice President but lost in 2015.</p>
+		</div>
+
+	</div> <!-- END CARD CONTAINER -->
+
+</div> <!-- END ISSUES -->
+
+<!-- SECTION INITIATIVE -->
+<div class="section" id="initiative">
+
+	<div class="content"><h2>What is the Philippine Digital Justice Initiative?</h2></div>
+
+    <div class="content"><p>The PH Digital Justice Initiative aims to unpack the characteristics, impacts, and ways forward of an increasingly digital world in the Philippines context. Operating under the lens of equity and social justice, we want to take a hard look at how digitalization, datafication, platformization and intelligencification is affecting Philippine democracy, human rights, labor, agriculture, education, poverty and inequality, and social movements.</p>
+	<p>This initiative is brought to you by the <a href="https://www.facebook.com/CPUnion">Computer Professionals' Union</a>, advocates of information and communications technology (ICT) that is pro-people and independent, that will genuinely serve the interest of the Filipino people. It is possible through the support of the <a href="https://waccglobal.org/">World Association for Christian Communication</a></p></div>
+
+</div>
+<!-- END SECTION INITIATIVE -->
+
+<!-- YOUTUBE -->
+<div class="section">
+	<div class="content">
+		<div class=" yt-container">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/laU8BqkvIyo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</div>
+	</div>
+</div>
+<!-- END YOUTUBE -->
+
+<!-- SECTION CURRENT -->
+<div class="section action" id="current">
+
+	<div class="content action"><span>ICT BRIGADE FOR DISASTER RESPONSE IS LOOKING FOR VOLUNTEERS!</span> &nbsp; &nbsp; <a href="https://bit.ly/JoinICTBrigade" target="#">SIGN-UP HERE</a></div>
+
+</div>
+<!-- END CURRENT -->
+
+<!-- SECTION PUBLICATIONS-->
+<div class="section pub-front " id="publications">
+	<div class="content pub-front"><h2>Publications</h2></div>
+	{% assign hasPubs = 0 %}
+	<div class="content pub-front">
+		<div class="recent-posts-list">
+		{% for post in site.posts limit: 3 %}
+			{% assign hasPubs = 1 %}
+			<div class="recent-post-container">
+					<a href="{{ site.baseurl }}{{ post.url }}">
+							<div class="recent-post">
+									<div class="recent-post-img" style="background: url({{site.img_repo | relative_url}}{{ post.img | default: "logo.png"}}) center no-repeat; background-size: cover;"></div>
+									<div class="recent-post-title">{{ post.title }}{{ commonTags }}</div>
+							</div>
+					</a>
+			</div>
+		{% endfor %}
+		</div>
+		{% if hasPubs == 0 %}
+			<p>We're putting together a series of papers on Philippine Digitalization. Stay tuned for the first article, an Overview of Philippine Digitalization.</p>
+		{% endif %}
+	</div>
+</div>
+<!-- END SECTION PUBLICATION-->

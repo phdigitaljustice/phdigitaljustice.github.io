@@ -1,0 +1,34 @@
+
+title: Philippine Digital Justice Initiative
+logo: /assets/img/logo.png
+logo_cpu: /assets/img/cpu.png
+logo_wacc: /assets/img/waccglobal.jpg
+img_repo: /assets/img/
+baseurl: ""
+url: "https://digitaljustice.cp-union.com"
+description: Philippine Digital Justice Initiative.
+#show_downloads: true
+#google_analytics:
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
+
+# default front matter
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+        layout: "post"
+        permalink: "/publications/:year/:month/:day/:title"
+        excerpt_separator: <!--more-->
+
+#pagination
+paginate: 5
+paginate_path: "/publications/page:num/"

@@ -1,0 +1,37 @@
+---
+layout: default
+title: Tags
+---
+{% include taglist.html %}
+<div class="wrapper">
+  <h1>Tags</h1>
+
+  <!-- Begin tag list -->
+  <div class="post-tag-container">
+    {% for tag in tags %}
+	   <a href="#{{ tag | slugify }}" class="tag-box"><div>#{{ tag }}</div></a>
+    {% endfor %}
+  </div>
+  <!-- End tag list -->
+  <div class="blog-list-container">
+    <!-- List posts per tag -->
+    {% for tag in tags %}
+    <div class="tag-blog-list">
+      <h3 id="{{ tag | slugify }}">{{ tag }}</h3>
+      <ul>
+    	  {% for post in site.posts %}
+    	    {% if post.tags contains tag %}
+            <li>
+              <a href="{{ post.url }}">{{ post.title }}</a>
+              <span class="meta-data-blog">{{ post.date | date_to_string }}</span>
+            </li>
+    	    {% endif %}
+    	  {% endfor %}
+    	</ul>
+      <div class="to-top-link">
+        <a href="#">back to top</a>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
