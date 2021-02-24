@@ -731,6 +731,9 @@ div.organizer-logo {
   margin: 2px;
 	color: $bgwhite;
 	font-weight: bold;
+	span {
+		font-size: 1em;
+	}
 }
 .tag-label {
 	font-size: 1em;
@@ -1052,6 +1055,11 @@ div.organizer-logo {
 		height: 15vw;
 		width: 30vw;
 	}
+	#yt-dj {
+		//width="560" height="315"
+		width: 560px;
+		height: 315px;
+	}
 }
 @media screen and (max-width: 78em) {
 	section {
@@ -1112,5 +1120,10 @@ div.organizer-logo {
 	.post-img-container {
 		max-height: 40vw;
 		overflow: hidden;
+	}
+	#yt-dj {
+		//width="560" height="315"
+		width: 360px;
+		height: 202px;
 	}
 }
