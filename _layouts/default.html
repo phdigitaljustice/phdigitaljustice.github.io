@@ -5,6 +5,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <!-- open graph -->
+  	<meta property="og:type" content="article">
+  	<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  	<meta property="og:title" content="{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}">
+  	<meta property="og:image" content="{{site.url}}{{site.img_repo | relative_url}}{{page.img | default: "logo.png"}}">
+  	<meta property="og:description" content="{% if page.description %}{{page.description}}{% else %}{{site.description}}{% endif %}">
+  	<!-- Twitter meta -->
+  	<meta name="twitter:card" content="summary" />
+  	<meta name="twitter:site" content="@DGTLJusticePH" />
+  	<meta name="twitter:title" content="{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}" />
+  	<meta name="twitter:description" content="{% if page.description %}{{page.description}}{% else %}{{site.description}}{% endif %}" />
+  	<meta name="twitter:image" content="{{site.url}}{{site.img_repo | relative_url}}{{page.img | default: "logo.png"}}" />
+  	<!-- end open graph -->
+
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/all.min.css?v=" | append: site.github.build_revision | relative_url }}"> <!-- font awesome -->
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
