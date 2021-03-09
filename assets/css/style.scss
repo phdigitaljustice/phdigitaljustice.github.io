@@ -736,8 +736,10 @@ div.organizer-logo {
 	}
 }
 .tag-label {
-	font-size: 1em;
-	padding: 6px 4px 0 0;
+	padding: 1.3em 0 0 0;
+	span {
+		font-size: 1em;
+	}
 }
 .blog-tag-container {
 	padding: 1em 0;
@@ -776,6 +778,9 @@ div.organizer-logo {
 }
 
 /* post */
+.subtitle {
+	font-style: italic;
+}
 .blog-list-item {
 	border: {
 		style: solid;
@@ -1055,6 +1060,12 @@ div.organizer-logo {
 		height: 15vw;
 		width: 30vw;
 	}
+	.tag-wrapper {
+		display: flex;
+		direction: row;
+	}
+
+
 	#yt-dj {
 		//width="560" height="315"
 		width: 560px;
@@ -1120,7 +1131,21 @@ div.organizer-logo {
 	.post-img-container {
 		max-height: 40vw;
 		overflow: hidden;
+		margin-bottom: 2em;
 	}
+	.tag-wrapper {
+		display: block;
+	}
+	.prev .np-arrow {
+		padding-left:0px;
+	}
+	.next .np-arrow {
+		padding-right:0px;
+	}
+	.np-post-text {
+		max-width: 36vw;
+	}
+
 	#yt-dj {
 		//width="560" height="315"
 		width: 360px;

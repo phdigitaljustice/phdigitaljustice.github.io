@@ -7,6 +7,9 @@ layout: default
     <p class="view">by {{ page.author | default: site.author }}</p>
   {% endif %}
   <h2>{{ page.title }}</h2>
+  {% if page.subtitle %}
+    <p class="subtitle">{{ page.subtitle }}</p>
+  {% endif %}
   <div class="post-img-container">
     <img src="{{site.img_repo | relative_url}}/{{page.img | default: "logo.png"}}" />
   </div>
@@ -14,13 +17,25 @@ layout: default
     {{content}}
   </div>
   {% if page.tags %}
+    <div class="tag-wrapper">
+      <div class="tag-label">
+        <span>tags: </span>
+      </div>
+      <div class="post-tag-container">
+        {% for tag in page.tags %}
+          <a href="/publications/tags#{{ tag | slugify }}" class="tag-box"><div>#{{ tag }}</div></a>
+        {% endfor %}
+      </div>
+    </div>
+  {% endif %}
+  <!-- {% if page.tags %}
     <div class="post-tag-container">
       <span class="tag-label">tags: </span>
       {% for tag in page.tags %}
         <a href="/publications/tags#{{ tag | slugify }}" class="tag-box"><div>#{{ tag }}</div></a>
       {% endfor %}
     </div>
-  {% endif %}
+  {% endif %} -->
 
   <!-- include next/prev post -->
   {% include nextprevpost.html %}
