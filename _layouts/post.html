@@ -13,8 +13,17 @@ layout: default
   <div class="post-img-container">
     <img src="{{site.img_repo | relative_url}}/{{page.img | default: "logo.png"}}" />
   </div>
+  <div class="share-buttons-container">
+  {% include snsshare.html %}
+  </div>
   <div class="post-body">
     {{content}}
+  </div>
+  <div class="share-buttons-container">
+    <div class="share-text">Share this post:</div>
+    <div class="share-buttons">
+    {% include snsshare.html %}
+    </div>
   </div>
   {% if page.tags %}
     <div class="tag-wrapper">
