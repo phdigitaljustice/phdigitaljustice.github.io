@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Digital 2020 Wrap-up
-tags: [social media, privacy, trolls, GrabFood, digital divide, online learning, digitalized labor]
+tags: [social media, privacy, trolls, GrabFood, digital divide, online learning, digitalized labor, rights]
 img: digital-2020.png
 ---
 
