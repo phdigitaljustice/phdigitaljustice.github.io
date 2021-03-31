@@ -177,6 +177,7 @@ a {
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 1.05em;
 	line-height: 1.5em;
+	overflow-wrap: break-word;
 	&:link {
 		text-decoration: none;
 	}
@@ -713,6 +714,10 @@ div.organizer-logo {
 	}
 }
 
+.datestamp {
+	font-style: italic;
+}
+
 /* tags */
 .post-tag-container {
   display:flex;
@@ -731,6 +736,7 @@ div.organizer-logo {
   margin: 2px;
 	color: $bgwhite;
 	font-weight: bold;
+	display: inline-block;
 	span {
 		font-size: 1em;
 	}
@@ -1129,6 +1135,9 @@ ul.share-buttons .sr-only {
 	}
 	p {
 		font-size: 1em;
+	}
+	span{
+		font-size: 1.2em;
 	}
 	.burger {
 		display: block;
