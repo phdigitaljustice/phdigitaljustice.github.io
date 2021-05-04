@@ -138,7 +138,7 @@ h5 {
 	border: 0;
 	font-family: 'Overpass', sans-serif;
 	line-height: 1.1em;
-	padding-bottom: 1em;
+	padding: 1em 0;
 	font-size: 1.5em;
 }
 h6 {
@@ -161,9 +161,14 @@ p {
 	padding-bottom: 1em;
 }
 blockquote {
-	margin: 0;
-	padding: 0;
-	border: 0;
+	margin: 0 0 1em 0;
+	padding: 0 0 0 1em;
+	-webkit-box-shadow:inset 4px 0 $accyellow;
+	-moz-box-shadow:inset 4px 0 $accyellow;
+	box-shadow:inset 4px 0 $accyellow;
+	p {
+		padding-bottom: 0;
+	}
 }
 pre {
 	margin: 0;
@@ -1109,6 +1114,10 @@ ul.share-buttons .sr-only {
 		direction: row;
 	}
 
+	.quote-card {
+		width: 70%;
+		padding: 0 15%;
+	}
 
 	#yt-dj {
 		//width="560" height="315"
