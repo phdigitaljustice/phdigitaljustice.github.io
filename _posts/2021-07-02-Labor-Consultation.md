@@ -43,8 +43,6 @@ Labor organizations including the Center for Trade Union and Human Rights (CTUHR
 
 ![Precarious Platform-Based Work](/assets/img/labor-3-0.png "Precarious Platform-Based Work")
 
-caption
-
 ##### What issues do platform-based workers face regularly?
 
 >Technical issues include the inconsistent internet connection, power cuts, and difficulties in using the application (platform).
@@ -67,8 +65,6 @@ caption
 
 ![Hyper-surveillance](/assets/img/labor-4-0.png "Hyper-surveillance")
 
-caption
-
 ##### What are the pressing issues on hyper-surveillance that affect the labor sector?
 
 >Companies abuse the company domains used at work to surveil the activities of employees in BPO industries.
@@ -90,8 +86,6 @@ caption
 ### Hijacked Democracies
 
 ![Hijacked Democracies Q1](/assets/img/labor-5-0.png "Hijacked Democracies")
-
-caption
 
 ##### What are the current issues in the labor sector related to hijacked democracies? Are there any note-worthy patterns or cases that can be discussed?
 
