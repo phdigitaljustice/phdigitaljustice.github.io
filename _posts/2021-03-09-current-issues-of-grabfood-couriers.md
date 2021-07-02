@@ -2,7 +2,7 @@
 layout: post
 title: Current Issues of GrabFood Couriers
 subtitle: Article 1 of a series of articles on Digitalization in the Philippines
-tags: [TNVS, GrabFood, digitalized labor]
+tags: [TNVS, GrabFood, digitalized labor, gig economy, platformbased work]
 img: TNVS_artix.png
 ---
 
