@@ -6,10 +6,10 @@ tags: [Internet, digital divide, consultation, privacy, rights, social media]
 img: it0.png
 ---
 
-**Through the Digital Lens 1**: Composed of IT experts coming from a wide array of variety, the two-day event gathered the Philippine IT Community to collectively discuss and contextualize the concept of Digital Justice in the Philippines, and provide insights on other issues surrounding the said topic. The four core concepts that were discussed at the event were Data Ownership, Data Protection, Data Infrastructure, and Data Democracy.
+**Through the Digital Lens 1**: Composed of IT experts coming from a wide array of variety, the two-day event gathered the Philippine IT Community to collectively discuss and contextualize the concept of Digital Justice in the Philippines, and provide insights on other issues surrounding the said topic. The four core concepts that were discussed at the event were [Data Ownership](#topic1), [Data Protection](#topic2), [Data Infrastructure](#topic3), and [Data Democracy](#topic4).
 <!--more-->
 
-### DATA OWNERSHIP
+### DATA OWNERSHIP {#topic1}
 
 ![Data Ownership](/assets/img/it1-0.png "Data Ownership")
 
@@ -69,7 +69,9 @@ A:
 
 ![Data Ownership Key Principle 4](/assets/img/it1-4.png "While there are existing governance frameworks in the Philippines that cover data commons, these are not utilized properly, so that data is just sitting in the cloud taking space but never used to process user information."){:class="quote-card"}
 
-### DATA PROTECTION
+[back to top](#top)
+
+### DATA PROTECTION {#topic2}
 
 ![Data Protection](/assets/img/it2-0.png "Data Protection")
 
@@ -135,7 +137,9 @@ Answer:
 
 ![Data Protection Key Principle 4](/assets/img/it2-4.png){:class="quote-card"}
 
-### DATA INFRASTRUCTURE
+[back to top](#top)
+
+### DATA INFRASTRUCTURE {#topic3}
 
 ![Data Infrastructure](/assets/img/it3-0.png "Data Infrastructure")
 
@@ -191,7 +195,9 @@ A:
 
 ![Data Infrastructure Key Principle 4](/assets/img/it3-4.png){:class="quote-card"}
 
-### DATA DEMOCRACY
+[back to top](#top)
+
+### DATA DEMOCRACY {#topic4}
 
 ![Data Democracy](/assets/img/it4-0.png "Data Democracy")
 
@@ -249,3 +255,5 @@ A:
 >Being the cluster of workers mostly involved in the outsourcing industry, freelancers, BPO workers, and gig economy workers are the most exposed to data exportation in the form of their labor. The question of data sovereignty is at play here. The already rolling Freelancing Protection Act can provide the first line of protection on their data rights. However, considering the pace of how data evolves exponentially on yearly basis, new issues to data will rise and can outdate the written law addressing this particular issue. The need for the appointment of a Data Ombudsman or establishment of a government agency specializing in creating and defining fundamental laws related to data rights is a possible solution. In addition, a conglomeration of academicians, IT professionals, lawmakers, workers, and other important stakeholders should be formed to formulate concepts and policies related to data rights that are multi-angular and evolving to adapt to the fast-paced transformation of data and how it affects the current Filipino society.
 
 ![Data Democracy Key Principle 4](/assets/img/it4-5.png){:class="quote-card"}
+
+[back to top](#top)
