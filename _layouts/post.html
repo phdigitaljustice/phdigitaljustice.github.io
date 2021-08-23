@@ -6,7 +6,7 @@ layout: default
   {% if page.author %}
     <p class="view">by {{ page.author | default: site.author }}</p>
   {% endif %}
-  <h2>{{ page.title }}</h2>
+  <h2 id="title">{{ page.title }}</h2>
   {% if page.subtitle %}
     <p class="subtitle">{{ page.subtitle }}</p>
   {% endif %}
