@@ -7,39 +7,41 @@ img: labor-1.png
 ---
 
 **Through the Digital Lens 2**, held on May 22, 2021, is part of the series of consultations of the initiative aiming to gather insights, opinions, suggestions, and possible resolutions from the vital stakeholders of digitalization and betterment of the ICT ecosystem in the Philippines. In this event, the Philippine Digital Justice Initiative invited several organizations from the labor sector to answer the following pressing issues in digitalization affecting the workers:
-- Inaccessibility and the Digital Divide
-- Precarious platform-based Work
-- Hyper-surveillance
-- Hijacked Democracies
+- [Technological Inaccessibility and the Digital Divide](#topic1)
+- [Precarious platform-based Work](#topic2)
+- [Hyper-surveillance](#topic3)
+- [Hijacked Democracies](#topic4)
 
 Labor organizations including the Center for Trade Union and Human Rights (CTUHR), Occupational Health Safety and Development (IOHSAD), BPO Industry Employees Network (BIEN), and Ecumenical Institute for Labor Education and Research (EILER) addressed the aforementioned topics, respectively.
 <!--more-->
 
-### Technological Inaccessibility and Digital Divide
+### Technological Inaccessibility and Digital Divide {#topic1}
 
 ![Technological Inaccessibility and Digital Divide](/assets/img/labor-2-0.png "Technological Inaccessibility and Digital Divide")
 
 
-#### Before the pandemic, what were the issues faced by workers and the labor sector regarding *inaccessibility of digital space*?
+##### Before the pandemic, what were the issues faced by workers and the labor sector regarding *inaccessibility of digital space*?
 
 >A huge gap exists in terms of knowledge on the basic functions and importance of digital technologies between the workers in urban and rural areas... thus creating a dilemma on how to contextualize the importance of digital technologies in terms of rights and security and utilize it to push for workers' rights.
 
 ![Technological Inaccessibility and Digital Divide Q1](/assets/img/labor-2-1.png){:class="quote-card"}
 
-#### How did the COVID-19 pandemic exacerbate the problem of digital divide for the workers and the labor sector in general?
+##### How did the COVID-19 pandemic exacerbate the problem of digital divide for the workers and the labor sector in general?
 
 >While a huge technological appreciation already exists, the COVID-19 pandemic's change in setup made teaching and organizing workers more difficult on the part of union leaders and workers' organizations in general. Unions often resort to text or social media to do organizational work, which technically risks and exposes their important information, and puts them at the mercy of private entities owning the digital platforms.
 
 ![Technological Inaccessibility and Digital Divide Q2](/assets/img/labor-2-2.png){:class="quote-card"}
 
 
-#### What measures, if any, have you done to address the problems of inaccessibility and the digital divide in the labor sector?
+##### What measures, if any, have you done to address the problems of inaccessibility and the digital divide in the labor sector?
 
 >Worker's unions and organizations teach workers how to use and maximize digital technologies as well as their role and importance in mobilization and security. However, the main hindrances in making such endeavors successful are the already poor grasp of workers in digital technologies and the programs themselves being conducted online due to the COVID-19 pandemic.
 
 ![Technological Inaccessibility and Digital Divide Q3](/assets/img/labor-2-3.png){:class="quote-card"}
 
-### Precarious Platform-Based Work
+[back to top](#top)
+
+### Precarious Platform-Based Work {#topic2}
 
 ![Precarious Platform-Based Work](/assets/img/labor-3-0.png "Precarious Platform-Based Work")
 
@@ -61,7 +63,9 @@ Labor organizations including the Center for Trade Union and Human Rights (CTUHR
 
 ![Precarious Platform-Based Work Q3](/assets/img/labor-3-3.png){:class="quote-card"}
 
-### Hyper-surveillance
+[back to top](#title)
+
+### Hyper-surveillance {#topic3}
 
 ![Hyper-surveillance](/assets/img/labor-4-0.png "Hyper-surveillance")
 
@@ -83,7 +87,9 @@ Labor organizations including the Center for Trade Union and Human Rights (CTUHR
 
 ![Hyper-surveillance Q3](/assets/img/labor-4-3.png){:class="quote-card"}
 
-### Hijacked Democracies
+[back to top](#title)
+
+### Hijacked Democracies {#topic4}
 
 ![Hijacked Democracies Q1](/assets/img/labor-5-0.png "Hijacked Democracies")
 
@@ -104,3 +110,5 @@ Labor organizations including the Center for Trade Union and Human Rights (CTUHR
 >For the 2022 elections, a working-class-oriented perspective and approach on the election are what is needed the most. A good example would be a worker's electoral watch that can be initiated by a partnership of CPU and EILER.
 
 ![Hijacked Democracies Q3](/assets/img/labor-5-3.png){:class="quote-card"}
+
+[back to top](#title)
