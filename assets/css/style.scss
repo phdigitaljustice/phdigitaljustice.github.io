@@ -1075,6 +1075,9 @@ ul.share-buttons .sr-only {
 			flex-flow: row nowrap;
 		}
 	}
+	.recent-post{
+		width: 30vw;
+	}
 	div#foot1 {
 		flex-basis: 0;
 		flex-grow: 2;
@@ -1119,10 +1122,10 @@ ul.share-buttons .sr-only {
 		padding: 0 15%;
 	}
 
-	#yt-dj {
+	.yt-frame {
 		//width="560" height="315"
-		width: 560px;
-		height: 315px;
+		width: 720px;
+		height: 405px;
 	}
 }
 @media screen and (max-width: 78em) {
@@ -1202,9 +1205,9 @@ ul.share-buttons .sr-only {
 		max-width: 36vw;
 	}
 
-	#yt-dj {
+.yt-frame {
 		//width="560" height="315"
-		width: 360px;
-		height: 202px;
+		width: 80vw;
+		height: 45vw;
 	}
 }
