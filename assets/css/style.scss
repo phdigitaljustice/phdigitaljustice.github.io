@@ -973,6 +973,14 @@ ul.share-buttons .sr-only {
   overflow: hidden;
 }
 
+/**
+ * PDF viewer
+ */
+object#pdf-viewer {
+	height: 90vh;
+	width: inherit;
+}
+
 @media (min-width: 78em) {
 	// h1 {
 	// 	padding: .3em 0;
