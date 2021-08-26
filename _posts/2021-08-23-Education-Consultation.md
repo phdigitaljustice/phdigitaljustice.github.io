@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Digital Justice Consultation with the Education Sector
-subtitle: KEY TAKEAWAYS from PH Digital Justice Initiative's Through the Digital Lens 2&#58; A Digital Justice Consultation and Workshop with the Labor Sector
-tags: [Internet, digital divide, consultation, privacy, rights, education, inaccessibility, hijacked democracies, hypersurveillance, online learning, censorship, surveillance, proprietary, misinformation]
+subtitle: KEY TAKEAWAYS from PH Digital Justice Initiative's Through the Digital Lens 2&#58; A Digital Justice Consultation and Workshop with the Education Sector
+tags: [Internet, digital divide, consultation, privacy, rights, education, inaccessibility, hijacked democracies, hypersurveillance, online learning, censorship, surveillance, proprietary, misinformation, platformization, digitalization]
 img: educ-1.png
 ---
 
