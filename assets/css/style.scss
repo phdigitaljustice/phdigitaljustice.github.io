@@ -810,7 +810,7 @@ div.organizer-logo {
 
 .next-prev-post {
   width: 100%;
-  margin: 24px 0;
+  margin: 2em 0;
   overflow: hidden;
 	flex-direction: row;
 	flex-wrap: wrap;
@@ -884,16 +884,17 @@ div.organizer-logo {
 .pagination {
 	padding: 1em 0em;
 }
+.related-posts {
+	margin: 3em 0;
+}
 .related-posts-list {
 	display: flex;
 	flex-flow: row;
 	flex-wrap: wrap;
 	justify-content: space-between;
-	margin-bottom: 3em;
 }
 	.related-posts-label {
 		padding: 0 12px;
-		margin-top: 2em;
 	}
 	.related-post-container {
 		max-width: 312px;
@@ -1085,6 +1086,9 @@ object#pdf-viewer {
 	}
 	.recent-post{
 		width: 30vw;
+	}
+	.related-posts-list {
+		margin-top: 1.5em;
 	}
 	div#foot1 {
 		flex-basis: 0;
