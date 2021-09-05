@@ -887,7 +887,7 @@ div.organizer-logo {
 .related-posts {
 	margin: 3em 0;
 }
-.related-posts-list {
+.related-posts-list, .signatories-wrapper {
 	display: flex;
 	flex-flow: row;
 	flex-wrap: wrap;
@@ -980,6 +980,49 @@ ul.share-buttons .sr-only {
 object#pdf-viewer {
 	height: 90vh;
 	width: inherit;
+}
+
+/**
+ * Declaration page
+ */
+li.spaced-list {
+	padding-bottom: 1em;
+}
+
+.centered-text {
+	text-align: center;
+}
+
+div#signatories {
+	padding-bottom: 5em;
+	h5 {
+		padding-bottom: 0;
+	}
+	h6 {
+		padding: 3em 1em 1.5em 1em;
+	}
+}
+
+.signatory {
+	display: inline-block;
+	margin: auto;
+	margin-bottom: 0;
+	text-align: center;
+	width: 16em;
+}
+.signatory-name {
+	padding-top: 1em;
+}
+.signatory-org {
+	width: 12em;
+	padding: 2em;
+	.signatory-name {
+		min-height: 3.2em;
+	}
+}
+
+.indiv-signatories {
+	border-top: 1px solid #ccc;
 }
 
 @media (min-width: 78em) {
@@ -1139,6 +1182,7 @@ object#pdf-viewer {
 		width: 720px;
 		height: 405px;
 	}
+
 }
 @media screen and (max-width: 78em) {
 	section {
@@ -1217,7 +1261,7 @@ object#pdf-viewer {
 		max-width: 36vw;
 	}
 
-.yt-frame {
+	.yt-frame {
 		//width="560" height="315"
 		width: 80vw;
 		height: 45vw;
