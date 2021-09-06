@@ -49,19 +49,18 @@ title: Philippine Digital Justice Declaration
         <li class="spaced-list">The government must prepare and equip the people with the knowledge, tools, and safeguards against possible ill effects of digitalization, automation, AI, and other social and technical changes brought about by rapidly evolving technologies. The government itself must have sufficient understanding and conduct thorough research in order to proactively respond to potential risks Filipinos may be subjected to.</li>
       </ol>
     </div>
-    <div id="signatories">
+    <div id="participants">
       <div class="section action">
-        <h5 class="centered-text">Signatories</h5>
-        <small>As of September 4, 2021</small>
+        <h5 class="centered-text">The following organizations and individuals helped craft the Filipino People's Digital Justice Declaration:</h5>
       </div>
       <div class="org-signatories">
         <h6 class="centered-text">Organizations</h6>
         <div class="signatories-wrapper">
-        {% assign sortedSignatoriesOrg = site.data.signatories-org | sort: "name" %}
-        {% for signatory in sortedSignatoriesOrg %}
+        {% assign sortedParticipantsOrg = site.data.participants-org | sort: "name" %}
+        {% for participant in sortedParticipantsOrg %}
           <div class="signatory signatory-org">
-            <div><img src="{{site.img_repo | relative_url}}/{{signatory.logo | default: "logo.png"}}" /></div>
-            <div class="signatory-name">{{ signatory.name }}</div>
+            <div><img src="{{site.img_repo | relative_url}}/{{participant.logo | default: "logo.png"}}" /></div>
+            <div class="signatory-name">{{ participant.name }}</div>
           </div>
         {% endfor %}
         </div>
@@ -69,14 +68,18 @@ title: Philippine Digital Justice Declaration
       <div class="indiv-signatories">
         <h6 class="centered-text">Individuals</h6>
         <div class="signatories-wrapper">
-        {% assign sortedSignatoriesInd = site.data.signatories-ind | sort: "name" %}
-        {% for signatory in sortedSignatoriesInd %}
+        {% assign sortedParticipantsInd = site.data.participants-ind | sort: "name" %}
+        {% for participant in sortedParticipantsInd %}
           <div class="signatory">
-            <div class="signatory-name">{{ signatory.name }}</div>
+            <div class="signatory-name">{{ participant.name }}</div>
           </div>
         {% endfor %}
         </div>
       </div>
     </div>
-  </div>
+    <div class="section action">
+      Organizations and individuals who are interested to be included as signatories of the Filipino People's Digital Justice Declaration may email us at
+      <br /><br />
+      <a href="">phdigitaljustice (at) cp-union . com</a>
+    </div>
 </div>
