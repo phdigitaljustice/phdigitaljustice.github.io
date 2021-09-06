@@ -993,10 +993,10 @@ li.spaced-list {
 	text-align: center;
 }
 
-div#signatories {
+div#signatories, div#participants {
 	padding-bottom: 5em;
 	h5 {
-		padding-bottom: 0;
+		padding: 0;
 	}
 	h6 {
 		padding: 3em 1em 1.5em 1em;
@@ -1017,7 +1017,7 @@ div#signatories {
 	width: 12em;
 	padding: 2em;
 	.signatory-name {
-		min-height: 3.2em;
+		min-height: 4.7em;
 	}
 }
 
