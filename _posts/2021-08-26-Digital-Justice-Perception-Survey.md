@@ -3,6 +3,7 @@ layout: post
 title: Digital Justice Perception Survey
 subtitle: A research on Filipinos' perception on Digital Justice
 tags: [survey, research, rights, digitalization]
+pdf: DigitalJustice_PerceptionSurvey.pdf
 ---
 
 ### Abstract
@@ -11,9 +12,9 @@ The Digital Justice Perception Survey (DJPS) of the Philippine Digital Justice I
 
 <!--more-->
 
-<object id="pdf-viewer" data="/assets/pdf/DigitalJustice_PerceptionSurvey.pdf" type='application/pdf'>
+<object id="pdf-viewer" data="/assets/pdf/{{ page.pdf }}" type='application/pdf'>
   <div class="content action">
     <p>Your browser does not have a PDF plugin.</p>
-    <p><a href="/assets/pdf/DigitalJustice_PerceptionSurvey.pdf" download>Download the PDF</a></p>
+    <p><a href="/assets/pdf/{{ page.pdf }}" download>Download the PDF</a></p>
   </div>
 </object>

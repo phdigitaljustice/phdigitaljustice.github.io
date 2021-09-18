@@ -4,6 +4,7 @@ title: Connection Unstable - Digital Justice in the context of the Youth and Stu
 subtitle: A thematic case study presented by AGHAM Youth National together with the Computer Professionals' Union and World Association for Christian Communication
 tags: [survey, research, case study, rights, digitalization, youth, students, online learning, education, digital equity, data privacy, COVID19, monopolization]
 img: case-study-youth.png
+pdf: ConnectionUnstable_ Digital-justice-in-the-context-of-the-youth-and-student-sector.pdf
 ---
 
 ### Context
@@ -18,9 +19,9 @@ Despite this, the rapid corporatization and monopolization of technology in the 
 
 In this case study, attention will be paid to the impacts of rapid digitalization among the youth, especially in the context of digital justice. The outlook of the sector will be sketched out with regards to digital equity, access to education, and data privacy. In particular, the impact of unchecked digitalization on the education sector, particularly in the context of distance learning and the COVID-19 pandemic, will be laid out through surveys and focus discussions with students. These issues will then be linked back to the issue of monopolization in the digital space and the impacts that the profit motive has on the Internet and society at present. Throughout the case study, policy suggestions will be laid out to determine how best to move forward with the current state of play.
 
-<object id="pdf-viewer" data="/assets/pdf/ConnectionUnstable_ Digital-justice-in-the-context-of-the-youth-and-student-sector.pdf" type='application/pdf'>
+<object id="pdf-viewer" data="/assets/pdf/{{ page.pdf }}" type='application/pdf'>
   <div class="content action">
     <p>Your browser does not have a PDF plugin.</p>
-    <p><a href="/assets/pdf/ConnectionUnstable_ Digital-justice-in-the-context-of-the-youth-and-student-sector.pdf" download>Download the PDF</a></p>
+    <p><a href="/assets/pdf/{{ page.pdf }}" download>Download the PDF</a></p>
   </div>
 </object>

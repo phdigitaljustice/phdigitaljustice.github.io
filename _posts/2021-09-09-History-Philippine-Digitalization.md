@@ -3,6 +3,7 @@ layout: post
 title: History of Philippine Digitalization
 tags: [research, digitalization, history]
 img: historyofphdigitalization.png
+pdf: History-of-Phil-Digitalization.pdf
 ---
 
 ### Abstract
@@ -11,9 +12,9 @@ This paper entitled "History of Digitalization in the Philippines" discusses dig
 
 <!--more-->
 
-<object id="pdf-viewer" data="/assets/pdf/History-of-Phil-Digitalization.pdf" type='application/pdf'>
+<object id="pdf-viewer" data="/assets/pdf/{{ page.pdf }}" type='application/pdf'>
   <div class="content action">
     <p>Your browser does not have a PDF plugin.</p>
-    <p><a href="/assets/pdf/History-of-Phil-Digitalization.pdf" download>Download the PDF</a></p>
+    <p><a href="/assets/pdf/{{ page.pdf }}" download>Download the PDF</a></p>
   </div>
 </object>

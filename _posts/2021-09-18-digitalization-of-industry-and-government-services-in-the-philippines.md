@@ -1,7 +1,7 @@
 ---
 layout: post
 title: General Overview of Digitalization in the Philippines
-tags: [research, digitalization, overview, internet, inaccessibility, e-commerce, digital divide]
+tags: [research, digitalization, overview, internet, inaccessibility, government, services, industry, TNC, TNVS]
 img: digitalization-industry-gov.png
 pdf: Overview-of-Digitalization-Industry-and-Government-Ph.pdf
 ---
