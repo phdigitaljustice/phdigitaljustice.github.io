@@ -1,6 +1,6 @@
 ---
 layout: post
-title: General Overview of Digitalization in the Philippines
+title: Overview of Digitalization of Service Industry and Government Services in the Philippines
 tags: [research, digitalization, overview, internet, inaccessibility, government, services, industry, TNC, TNVS]
 img: digitalization-industry-gov.png
 pdf: Overview-of-Digitalization-Industry-and-Government-Ph.pdf
@@ -8,7 +8,7 @@ pdf: Overview-of-Digitalization-Industry-and-Government-Ph.pdf
 
 ### Abstract
 
-This paper titled “General Overview of Digitalization in the Philippines” discusses the overall current condition of digitalization in the Philippines and other key related topics. The paper also highlights the current challenges that Philippine society faces amidst the ongoing digitalization and the possible prospects that Philippines may go through in the future. This research highlights that despite the sporadic development in digitalization of the Philippines in some urban areas, the lagging state of overall digital infrastructure has still been a perennial problem and is currently the biggest challenge to maximize the possible benefits of digitalization for the majority of the Filipinos.
+The Overview of Digitalization in Government Services and Service Industry discusses the overall state of digitalization, challenges, and future prospects on these two key economic sectors. Although the government services and service industries are two of the most long-standing and important sectors of the economy and society, the process of improvement through digitalization is still sporadic and disintegrated and is poorly performing in comparison with its neighboring countries largely because of poor ICT infrastructure in the Philippines, especially on the side of the former despite of the impetus that the COVID-19 pandemic has brought. The paper suggests that aside from addressing the long-standing issue of poor ICT infrastructure and national industrialization, a shift of focus from the government to maximize digitalization for the people would not only be a beneficial for the people because of the new normal set-up, but would also push the service industry to adapt a similar outlook on their part.
 
 <!--more-->
 
