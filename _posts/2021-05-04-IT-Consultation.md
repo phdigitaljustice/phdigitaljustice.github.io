@@ -2,7 +2,7 @@
 layout: post
 title: Digital Justice Consultation with IT Experts
 subtitle: KEY TAKEAWAYS from PH Digital Justice Initiative's Through the Digital Lens&#58; A Digital Justice Consultation and Workshop
-tags: [Internet, digital divide, consultation, privacy, rights, social media]
+tags: [internet, digital divide, consultation, privacy, rights, social media]
 img: it0.png
 ---
 

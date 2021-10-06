@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 27th Anniversary of Internet in the Philippines
-tags: [Internet, digital divide]
+tags: [internet, digital divide]
 img: internet-anniversary-ph.png
 ---
 

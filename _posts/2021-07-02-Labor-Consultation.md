@@ -2,7 +2,7 @@
 layout: post
 title: Digital Justice Consultation with the Labor Sector
 subtitle: KEY TAKEAWAYS from PH Digital Justice Initiative's Through the Digital Lens 2&#58; A Digital Justice Consultation and Workshop with the Labor Sector
-tags: [Internet, digital divide, consultation, privacy, rights, labor, gig economy, inaccessibility, hijacked democracies, hypersurveillance, platformbased work, digitalized labor, digitalization, platformization]
+tags: [internet, digital divide, consultation, privacy, rights, labor, gig economy, inaccessibility, hijacked democracies, hypersurveillance, platformbased work, digitalized labor, digitalization, platformization]
 img: labor-1.png
 ---
 

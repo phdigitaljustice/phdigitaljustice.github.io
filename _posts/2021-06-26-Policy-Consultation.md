@@ -2,7 +2,7 @@
 layout: post
 title: Digital Justice Consultation with Policy Experts
 subtitle: Notes from PH Digital Justice Initiative's Consultation and Workshop
-tags: [Internet, digital divide, consultation, policy, privacy, rights, laws]
+tags: [internet, digital divide, consultation, policy, privacy, rights, laws]
 ---
 
 **Digital Justice - Policy Experts Consultation**, held on April 25, 2021, is part of the series of consultations of the initiative aiming to gather insights, opinions, suggestions, and possible resolutions from the vital stakeholders of digitalization and betterment of the ICT ecosystem in the Philippines. In this event, the Philippine Digital Justice Initiative invited the office of Bayan Muna Representative, Congressman Carlos Zarate:
