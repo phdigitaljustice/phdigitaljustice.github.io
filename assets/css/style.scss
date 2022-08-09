@@ -719,6 +719,10 @@ div.organizer-logo {
 	}
 }
 
+.meta-data-blog {
+	padding-bottom: 1em;
+}
+
 .datestamp {
 	font-style: italic;
 }
@@ -1184,6 +1188,18 @@ div#signatories, div#participants {
 		height: 405px;
 	}
 
+	// blog list page
+	.post-summary-content {
+		display: flex;
+		flex-flow: row;
+	}
+	.post-summary-left {
+		width: 25em;
+		padding-right: 2em;
+	}
+	.post-summary-right {
+		width: 33em;
+	}
 }
 @media screen and (max-width: 78em) {
 	section {

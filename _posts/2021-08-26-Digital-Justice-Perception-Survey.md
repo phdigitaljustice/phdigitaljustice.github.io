@@ -2,7 +2,7 @@
 layout: post
 title: Digital Justice Perception Survey
 subtitle: A research on Filipinos' perception on Digital Justice
-tags: [survey, research, rights, digitalization]
+tags: [survey, research, rights, digitalization, privacy, data, security, social media]
 pdf: DigitalJustice_PerceptionSurvey.pdf
 ---
 

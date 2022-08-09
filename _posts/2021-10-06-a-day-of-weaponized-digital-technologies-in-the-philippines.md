@@ -6,9 +6,9 @@ img: weaponized-digital-tech.png
 ---
 
 October 6, 2021—Two remarkable events that highlight the Duterte regime’s weaponization of digital technologies to hijack our communications rights took place today.
-<!--more-->
 
 In the midst of the 6th day of the filing of certificates of candidacy (COC) for the 2022 Philippine National Elections, an emergency alert was broadcast to mobile phones in the vicinity of Sofitel, where the aforementioned activity was being held. However, the alert which is by law used for disaster emergencies contained a message pertaining to a certain BBM—initials of the late dictator Ferdinand Marcos’s son, Bongbong Marcos.
+<!--more-->
 
 The alert read, “Buong Buo ang Malasakit sa Bansa. Buong Buhay ang Mailay sa taong bayan. Bagong Bukas na Masagana para sa masa. BaBangon Muli ang Pilipinas (V) BBM sa bansa, BBM sa taong bayan, BBM sa Masa.. BBM Pilipinas!!!”
 

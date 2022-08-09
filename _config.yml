@@ -30,5 +30,5 @@ defaults:
         excerpt_separator: <!--more-->
 
 #pagination
-paginate: 5
+paginate: 8
 paginate_path: "/publications/page:num/"
